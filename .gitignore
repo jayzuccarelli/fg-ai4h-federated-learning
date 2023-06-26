@@ -1,2 +1,3 @@
 # Data
-*.csv
+lr-example/*.csv
+fl-example/*.csv
